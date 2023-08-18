@@ -342,7 +342,19 @@ pls_result <- plsr.mcSimulation(object = product_mc_simulation,
 
 plot_pls(pls_result, input_table = input_table, threshold = 0)
 
+# Check breakeven point in unit
 
+# Revenue per unit
+
+Unit_revenue_perfume <- Perfume_selling_price - Unit_cost_perfume
+Unit_revenue_perfume
+
+Unit_variable_cost <- (Perfume_cost_raw + Perfume_cost_production)/200
+
+Unit_breakeven_point <- Fixed_cost_perfume/ (Unit_revenue_perfume - Unit_variable_cost)
+Unit_breakeven_point
+#Without considering income tax, breakeven point will reach in a year for perfume
+#but cashflow looks stunted. Low profit?
 
 
           
