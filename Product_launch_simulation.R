@@ -31,7 +31,7 @@ Product_launch_function <- function(x, varnames) {
   Fixed_cost_candle <- vv (Fixed_cost + Candle_production_loss,
                            var_CV, n_years)
   
-  Fixed_cost_pouch <- vv (Fixed_cost + Candle_production_loss,
+  Fixed_cost_pouch <- vv (Fixed_cost + Pouch_production_loss,
                           var_CV, n_years)
   
 # Calculate unit cost for each product
