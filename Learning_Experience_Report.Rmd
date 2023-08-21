@@ -1,0 +1,16 @@
+---
+title: "A Report on Learning Experience"
+author: "SM"
+date: "2023-08-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This report is a record of my learning experience during the decision analysis course. 
+
+Comments on what I learned from lectures and reading materials are written here. 
+
+The seminar exercise of each week are replicated using the [Essential Oils Data set](https://github.com/szmoe/Perfume_Vs._Candle_Vs._Perfume_Pouch/blob/main/Essential_Oils.csv), as and when possible. The original data set has 300 entries, but I will only use the first page of the data set to maintain visual simplicity. 
