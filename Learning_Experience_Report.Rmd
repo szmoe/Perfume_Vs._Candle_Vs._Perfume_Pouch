@@ -37,39 +37,51 @@ I learned how to install R, R studio and how to operate the R studio interface. 
 
 Lecture 2 contains six videos on decision analysis for agriculture. The videos were very nice, and very easy to understand. This is my third time watching these videos and I still feel I have not grasped all the meanings yet. I understood what was being said, but not at the deeper level. But, it gets better each time I re-watch the videos. Anyway, I will discuss the videos from nutrition perspective, based on my current level of understanding, as of 27 Aug 2023. 
 
-Introduction
+**Introduction**
 
 The 'Introduction' video explains the general theory and tools of decision analysis. There are some key phrases that I noted- "balanced causal models," "without perfect information (uncertainties)," "identify knowledge gap," "honest about uncertainties," and "behavior of the whole system."
 
 I want to expand a bit further on the "balanced causal models." I understand the causal model means our variables (or interventions) have a causal link with the outcomes we desire. Ensuring causal links between variables and outcomes may not be a problem when we are focusing on monetary values. It may be different if the targeted outcome is a specific health benefit and the intervention is not yet proven effective. If the intervention is new and untested, we can't be certain it has a causal link with the expected outcome. If there is no causal link between our intervention and our outcome, the model will be useless from the beginning. 
 
-This is the reason why I choose interventions already proven effective in literature for my targeted outcome in the model 3 practice. Since these interventions are already tested, I can be certain they can give the outcome I hope for, the normal distributions of my variables, and the degree of association. The drawback is I won't be able to test new hypothesis safely using decision analysis approach (I could be wrong). It may be possible in agriculture, but will it be advisable in nutrition where consequences concern the health and life of human beings?
+This is the reason why I choose interventions already proven effective in literature for my targeted outcome in the model 3 practice. Since these interventions are already tested, I can be certain they can give the outcome I hope for, the normal distributions of my variables, and the degree of association. There will still be uncertainties around the suitableness of the interventions for the targeted population. The drawback is I won't be able to test new hypothesis safely using decision analysis approach (I could be wrong). It may be possible in agriculture, but will it be advisable in nutrition where consequences concern the health and life of human beings?
+
+**Part 1: Approaches**
+
+I learned about impact pathways in video 1. There are some key words I wish to remember. So, I will put them in the report as needed for my future reference.
+
+`To have impact`
+`With a view to impact targets` 
+`appropriate strategy`
+`impact pathways help ensure activities are connected to outcomes in a plausible ways`
+`weak links become obvious in impact pathways` 
+`research gaps can't be identified without talking to farmers` 
+
+I want to discuss a bit further on "research gaps can't be identified without talking to farmers." That is applicable in nutrition as well but my question is "will experts/ participants' knowledge be enough to identify a research gap (the need of the population) if previous data on a population's nutrient needs are not available?" It may be enough if we are not targeting a specific health outcome but a generalized outcome, as in this intervention will improve health and well being of the population without giving details. A more exact approach or even initial assessments may be required if we aim to address a specific nutrition problem, and if we hope to solve the problem with our intervention. 
+
+*Task: Try and identify a decision maker with a choice between different options and with uncertainty about the outcome.*
+
+*Answer: The decision maker is the school principal. Different options are "board games" or "educational games" to improve learning outcomes. The principal knows both options can enhance learning, but they are uncertain which will be the best option for this particular school, considering the cost, the level of impact and student engagement, etc.*
+
+**Part 2: Decision Analysis**
+
+I learned about Monte Carlo simulation and how to "incorporate uncertainty using stochastic modeling tools." I learned that I should estimate a range rather than a single number or an average. 
+
+*Task: Describe a few (three as per the video) variables that you consider difficult to measure but for which the effects on a decision might be possible to describe as uncertainty distributions.*
+
+*Answer: Level of interests, Level of knowledge acquisition, and Level of enjoyment. The level of knowledge acquisition can be measured using standardized test score, whereas the level of interests and enjoyment are measured using psychometric scale such as the likert. In a psychometric scale, the numbers are qualitative with categorical meanings. But, the Monte Carlo simulation works on a range of probable estimates. Thus, instead of assigning one label to one number, I assign one label to a range of number. For example, 1 is bad, 2 is okay and 3 is good. Instead of using just 3 assigned numbers, I will use a range- 1.0 to 1.9 is bad, 2.0 to 2.9 is okay, and 3.0 to 3.9 is good. Then, I may be able to simulate qualitative data for a qualitative outcome. See the model 3 practice for details.*
 
 
+**Part 3: Model Building**
+
+I learned how to build a holistic model that include "all important aspects" with inputs from local and expert. I was also introduced to the "value of information analysis," a post-hoc test can identify key uncertainties to increase the current information for better decision making. 
+
+*Task: Draw a conceptual diagram of an agricultural development decision. Include the major factors that would influence the decision, no matter how difficult they might be to measure.*
+
+*Answer: See the model practices 1, 2 and 3 [here.](https://github.com/szmoe?tab=repositories)*
+
+**Part 4: Overcoming Bias**
 
 
-
-
-
-
-
-
-part 1
-
-to have impact, with a view to impact targets, appropriate strategy, impact pathways help ensure activities are connected to outcomes in a plausible ways, weak links become obvious in impact pathways, research gaps can't be identified without talking to farmers, 
-
-can the interventions be new?
-
-part 2
-
-incorporate uncertainty using stochastic modeling tools
-monte carlo simulation 1+3 , or use value of information, certain relatinship, provide 3 examples of uncertain values, 3 variables 
-
-part 3
-
-include all important aspects, use local and expert knowledge, interventions based on experts or literature?, identify key uncertainties via value of information analysis
-
-part 4
 
 
 
