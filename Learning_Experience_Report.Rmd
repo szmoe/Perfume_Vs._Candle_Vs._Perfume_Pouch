@@ -109,6 +109,16 @@ The Part 5 and 6 discuss case studies and conclusions for week 2 lecture. I'm pa
 
 **Bonus Video**
 
+I learned more about evpi and value of information and a lot of other new things from the video, although I can't say I understand everything in full capacity. The video talks about allocation of resources based on the benefit- QALY. The funding used in cancer drug could have gained more QALYs, if it had been allocated to other causes in the healthcare system. The investment adds a benefit of 3-month survival and 0.7 quality of life for cancer patients, while it would have caused better outcomes elsewhere. I think that leads to one interesting question (or statement) during the Q&A session. By that logic, should more investments be made in developing countries or similar scenarios where the outcomes will be more prominent? 
+
+Another thing I noted during the Q&A that relates to one of the slides shown in the presentation was the scope or area of study (or model). The examples given by the presenter were treatments/ drugs. I think the simulation for the treatment options have clearly identified input variables and the relationships are mostly well-established, since everything happens within the boundary of a human body. It will be less so in other types of intervention where we consider broader aspects. And that leads me to thinking the simulation for treatment option will be more reproducible than the simulation for agricultural development. Does that mean there can be more than one outcome scenarios, if broader aspects are concerned? I'm not talking about different outcomes based on ranges of estimates. I'm talking about a totally different pathway model. I mean two forecasters can create two different pathway models and give two different outcomes for one problem. It's all about perspectives. Should everything be tied down to the economic viewpoint, a.k.a the cost and benefit model? It is not economically wise to invest more in cancer patients considering the disease prognosis, but will it be justifiable from another perspectives? Maybe the emotional value or future prospect of finding a better cure for cancer? 
+
+
+
+value of implementation vs value of information
+different scenarios vs different estimates for each scenario
+reject, OIR, AWR, Approve, price vs health benefits\
+they need to realize they have a problem before you sell a solution
 
 
 
